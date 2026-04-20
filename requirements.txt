@@ -1,0 +1,13 @@
+numpy
+opencv-python
+matplotlib
+pillow
+scikit-learn
+tensorflow
+tensorflow-hub
+torch
+torchvision
+ultralytics
+jsonpickle
+humanfriendly
+tqdm
